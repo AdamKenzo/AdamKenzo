@@ -1,5 +1,6 @@
 ## Olá, eu sou o Adam Kenzo, um estudante de programação e um entusiasta de tecnologia!
 ![Imagem banner](bannerGitHub.png)
+<img src="bannerGitHub.png" widht="1280" height="640">
 <div> 
  
   <a href="https://www.instagram.com/adamkenz0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
